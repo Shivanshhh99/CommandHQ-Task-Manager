@@ -5,6 +5,8 @@ let taskId = 0;
 let userLevel = 1;
 let completedCount = 0;
 
+
+
 // DOM elements
 const taskInput = document.getElementById('taskInput');
 const prioritySelect = document.getElementById('prioritySelect');
