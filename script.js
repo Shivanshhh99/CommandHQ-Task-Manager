@@ -143,7 +143,7 @@ function deleteTask(id) {
     }
 }
 
-// Update statistics
+
 function updateStats() {
     const total = tasks.length;
     const completed = tasks.filter(t => t.completed).length;
